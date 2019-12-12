@@ -1,0 +1,1 @@
+Memória flash implementada e em testes
